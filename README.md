@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, Here Andrés Burgos Estrada</h1>
 <h3 align="center">Actually I´m an information technology engineering student.</h3>
 
-- 🔭 I’m currently working on Being a good full-stack developer **personal blog**
+- 🔭 I’m currently working on Being a good full-stack developer 
 
 - 📫 How to reach me **joseandresburgos123@gmail.com**
 
